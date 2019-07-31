@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Validaddy</string>
+    <string name="deny">🚫Deny🚫</string>
+    <string name="approve">✅Approve✅</string>
+    <string name="default_message">Log In to GoDaddy for Push</string>
+    <string name="response_toast">Sent Response</string>
+</resources>
